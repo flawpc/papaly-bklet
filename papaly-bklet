@@ -1,0 +1,1 @@
+javascript:(function() {var e = document.createElement('script');e.setAttribute('id', 'clipinet-javascript');e.setAttribute('type', 'text/javascript');e.setAttribute('charset', 'UTF-8');e.setAttribute('src', '//papaly.com/items/bookmarklet.js?r=' + Math.floor(Math.random() * 100000));document.body.appendChild(e)})();
